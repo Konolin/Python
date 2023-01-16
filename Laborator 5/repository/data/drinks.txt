@@ -1,0 +1,20 @@
+Drink(id=0, name=Cola, portion_size=330, price=5, alcohol_content=0)
+Drink(id=1, name=Bere, portion_size=500, price=10, alcohol_content=15)
+Drink(id=2, name=Pepsi, portion_size=330, price=5, alcohol_content=0)
+Drink(id=8, name=Tets, portion_size=800, price=7, alcohol_content=0)
+Drink(id=10, name=Test, portion_size=123, price=15, alcohol_content=50)
+Drink(id=10, name=Test, portion_size=123, price=15, alcohol_content=50)
+Drink(id=10, name=Test, portion_size=123, price=15, alcohol_content=50)
+Drink(id=10, name=Test, portion_size=123, price=15, alcohol_content=50)
+Drink(id=10, name=Test, portion_size=123, price=15, alcohol_content=50)
+
+
+
+
+
+
+10
+name=Test
+portion_size=123
+price=15
+alcohol_content=50

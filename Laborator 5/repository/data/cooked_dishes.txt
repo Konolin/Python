@@ -1,0 +1,5 @@
+CookedDish(id=0, name=Cartofi, portion_size=300, price=8, prep_time=15)
+CookedDish(id=1, name=Salata, portion_size=350, price=25, prep_time=5)
+CookedDish(id=10, name=Test, portion_size=150, price=50, prep_time=30)
+CookedDish(id=10, name=Test, portion_size=123, price=15, prep_time=50)
+CookedDish(id=10, name=Test, portion_size=123, price=15, prep_time=50)

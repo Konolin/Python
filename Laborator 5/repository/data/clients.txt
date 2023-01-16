@@ -1,0 +1,7 @@
+Client(id=0, name=Boga, address=Saschiz 12)
+Client(id=1, name=te, address=s4t)
+Client(id=2, name=Dario, address=Padure)
+Client(id=3, name=Dariane, address=Boiu 125)
+Client(id=4, name=Goaga, address=Aiud)
+Client(id=5, name=Bogaboga, address=Saschiz 15)
+Client(id=6, name=Sasu, address=Asu)

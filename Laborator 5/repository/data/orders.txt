@@ -1,0 +1,7 @@
+Order(id=0, client_id=4, drinks_list=['1'], cooked_dishes=[''], total_cost=10 time_placed, time_placed=16:02, expected_time=16:02)
+Order(id=1, client_id=5, drinks_list=['1', '2'], cooked_dishes=['1'], total_cost=30 time_placed, time_placed=16:02, expected_time=16:02)
+Order(id=2, client_id=4, drinks_list=['1', '1'], cooked_dishes=['0'], total_cost=28, time_placed=2023-01-05 14:20:19.677183, expected_time=14:35)
+Order(id=3, client_id=5, drinks_list=['1'], cooked_dishes=[''], total_cost=10, time_placed=2023-01-05 14:21:41.441032, expected_time=14:21)
+Order(id=4, client_id=7, drinks_list=[''], cooked_dishes=['0'], total_cost=8, time_placed=2023-01-05 14:22:40.370267, expected_time=14:37)
+Order(id=5, client_id=6, drinks_list=['1', '1', '0'], cooked_dishes=['0', '1'], total_cost=58, time_placed=17:33, expected_time=17:53)
+Order(id=5, client_id=4, drinks_list=['1', '1'], cooked_dishes=['0'], total_cost=28, time_placed=08:24, expected_time=08:39)
